@@ -2,6 +2,8 @@
   
   # Kalil Alves Pereira
 
+  <img src="media/kalil.jpg" width= 250 alt="Foto">
+
 </div>
 
 ## Introdução
