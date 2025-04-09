@@ -6,11 +6,16 @@
 <h2 align='center'> Introdução </h2>
    <img src="media/kalil.jpg"  height="350" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollicitudin nisl ut condimentum mollis. Nullam est purus, pulvinar ac est vitae, lacinia auctor mi. Vivamus et sodales ipsum. Sed eget faucibus lorem, eu luctus diam. Nulla sed rutrum purus. Mauris sagittis eros quis turpis dapibus vestibulum. Donec laoreet semper est vel tempus. Nulla id gravida ex, sed fermentum dolor. Suspendisse varius pretium ex, vel consequat metus gravida eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent aliquam sem in enim consequat, id placerat risus tristique.
 
-Suspendisse vehicula arcu turpis, mattis volutpat nisl semper ac. Nunc condimentum nunc quis placerat maximus. Morbi ut diam in velit hendrerit facilisis a vel elit. Nam nec libero molestie, porta justo eget, aliquet est. Aenean sed nisi eget erat viverra faucibus. Mauris eget aliquet sem, ut laoreet est. Vivamus aliquet non velit cursus viverra. Vivamus sed dolor a lectus finibus tristique. Quisque bibendum tristique sollicitudin. Cras iaculis ornare condimentum. Morbi in orci a risus molestie bibendum. Etiam at venenatis ipsum. Aliquam erat volutpat. Praesent sed nisl sagittis, elementum orci eu, dapibus ex.
+  Bem-vindo! Me chamo Kalil, e tenho 20 anos.
 
-Fusce rutrum tristique est vel mattis. Donec semper diam urna, ut dignissim erat semper sed. Pellentesque congue massa nec ex finibus scelerisque. Phasellus luctus pharetra ante, nec accumsan dolor efficitur ut. Quisque ultrices faucibus turpis pulvinar interdum. Mauris cursus mi velit, sit amet placerat nisi viverra vel. Mauris lacinia semper ante. Cras id sem mauris. Curabitur feugiat, eros ac posuere faucibus, augue tellus lobortis lacus, iaculis laoreet nisl leo in odio. Ut interdum condimentum est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ac porta nibh. Aenean hendrerit, sapien nec fringilla mollis, tortor nulla mollis sapien, a dapibus sem leo ut ante. Maecenas nec massa ante. Nulla condimentum semper cursus. Etiam maximus libero sit amet mi varius, quis eleifend eros vestibulum.
+Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Desde criança sempre tive interesse por tecnologia e uma grande curiosidade por todo o funcionamento por trás da mesma.
+
+Era bem óbvio que eu queria trabalhar com algo envolvendo software e computadores. Meu primeiro contato com programação foi principalmente durante a pandemia. Depois de conhecer pessoas que já estavam na área que podiam me orientar e falar sobre o assunto, foi bem natural que eu também entrasse nesse mercado, prestando vestibular para entrar na FATEC de São José dos Campos no curso de Análise e Desenvolvimento de Sistemas, onde finalmente mergulhei de vez nesse universo.
+
+No segmento do desenvolvimento de software, tenho buscado aprimorar continuamente minhas competências principalmente no front-end em primeiro lugar, dominando bibliotecas como o React, e linguagens como o Typescript, e em segundo lugar bancos de dados, exibindo proficiência em linguagens como MySQL, Postgres SQL, e MongoDB. Sem dispensar as soft skills, como organização, resolução de problemas, entrega de resultados, e trabalho em equipe, as desenvolvi extensivamente com projetos acadêmicos feitos ao decorrer dos semestre do meu curso utilizando metodologias ágeis como Scrum e Kanban, me proporcionando experiência prática como Scrum Master e como Desenvolvedor (Scrum Team).
+
+Atualmente, estou buscando minha primeira experiência formal no mercado de tecnologia. É fato que tenho muito para oferecer e contribuir, e muito o que aprender também. Sigo procurando evoluir constantemente como profissional e como pessoa, e não pretendo parar tão cedo.
 
    </p>
 </div>
@@ -19,27 +24,16 @@ Fusce rutrum tristique est vel mattis. Donec semper diam urna, ut dignissim erat
 
 <div align="center">
   
-## Cursos
-
- |   Curso  |    Plataforma de Ensino    |
- | :------:      | :------: |
- | 1 | 1 |
- | 2 | 2 |
- | 3 | 3 |
- | 4 | 4 |
- | 5 | 5 |
-
-<br>
 <span id='contatos'>
 
-<h2 align='center'>📞 Contatos 📞</h2>
+<h2 align='center'> Contatos </h2>
 
 <a href = "" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = ""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <br>
 
-<h2 align='center'>💻 Meus Principais Conhecimentos 💻</h2>
+<h2 align='center'>Meus Principais Conhecimentos </h2>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
