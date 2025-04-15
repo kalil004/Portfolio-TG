@@ -11,7 +11,7 @@
 
 Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Desde criança sempre tive interesse por tecnologia e uma grande curiosidade por todo o funcionamento por trás da mesma.
 
-Era bem óbvio que eu queria trabalhar com algo envolvendo software e computadores. Meu primeiro contato com programação foi principalmente durante a pandemia. Depois de conhecer pessoas que já estavam na área que podiam me orientar e falar sobre o assunto, foi bem natural que eu também entrasse nesse mercado, prestando vestibular para entrar na FATEC de São José dos Campos no curso de Análise e Desenvolvimento de Sistemas, onde finalmente mergulhei de vez nesse universo.
+Desde muito jovem, sempre tive uma forte inclinação por áreas relacionadas a software e tecnologia. Meu primeiro contato real com programação aconteceu durante o período da pandemia, momento em que tive a oportunidade de explorar esse universo com mais profundidade. A convivência com pessoas já inseridas no mercado de tecnologia foi fundamental para despertar ainda mais meu interesse, oferecendo orientações valiosas e ampliando minha visão sobre a área. Naturalmente, decidi seguir esse caminho profissional e, como parte desse processo, prestei vestibular para o curso de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos — onde iniciei minha formação acadêmica e mergulhei de vez no mundo da programação e do desenvolvimento de software.
 
 No segmento do desenvolvimento de software, tenho buscado aprimorar continuamente minhas competências principalmente no front-end em primeiro lugar, dominando bibliotecas como o React, e linguagens como o Typescript, e em segundo lugar bancos de dados, exibindo proficiência em linguagens como MySQL, Postgres SQL, e MongoDB. Sem dispensar as soft skills, como organização, resolução de problemas, entrega de resultados, e trabalho em equipe, as desenvolvi extensivamente com projetos acadêmicos feitos ao decorrer dos semestre do meu curso utilizando metodologias ágeis como Scrum e Kanban, me proporcionando experiência prática como Scrum Master e como Desenvolvedor (Scrum Team).
 
@@ -94,7 +94,9 @@ O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José
 
 ### 💡Contribuições Pessoais
 
-Neste projeto, fui responsável pela implementação do Flask para roteamento das páginas web, e por fornecer o conteúdo explicativo de alguns dos capítulos da plataforma, desde a adição de textos, vídeos, até downloads de modelos de burndown e backlog.
+Neste projeto, atuei ativamente na implementação do framework Flask, sendo responsável pelo desenvolvimento do roteamento das páginas web, garantindo uma navegação fluida e estruturada na plataforma. Além disso, contribuí diretamente na produção e curadoria de conteúdo educacional para diversos capítulos, incluindo a elaboração de textos explicativos, inserção de vídeos e disponibilização de materiais complementares para download, como modelos de burndown chart e backlog. Essas ações tiveram como objetivo enriquecer a experiência do usuário e oferecer recursos práticos para aplicação dos conceitos abordados.
+
+
 <br>
 
 <b>Hard Skills</b>
