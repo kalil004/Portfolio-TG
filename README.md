@@ -110,7 +110,7 @@ Neste projeto, atuei ativamente na implementação do framework Flask, sendo res
 
 <b>Soft Skills</b>
 
-Durante o projeto, trabalhei habilidades como a orientação a resultados e resiliência, pois como a programação na prática ainda era algo novo para mim e um membro da equipe havia desistido do curso no meio do semestre, tive que gastar muito tempo nas tarefas, e isso era algo que os outros membros da minha equipe também compartilhava. Porém, com um nível considerável de persistência, eu minha equipe fomos capazes de entregar tudo dentro dos prazos.
+Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
 
 <br/>
 
