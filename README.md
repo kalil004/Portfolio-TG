@@ -65,7 +65,7 @@ Atualmente, estou buscando minha primeira experiência formal no mercado de tecn
 <br>
 
 ## Projetos
-</div>
+<div>
 
 <span id='1'>
 
@@ -113,6 +113,49 @@ Neste projeto, atuei ativamente na implementação do framework Flask, sendo res
 Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
 
 <br/>
+
+<span id='2'>
+
+### Em 2023-2 - Lotus Chatbot - (2° Semestre)
+
+### 📋 Desafio (Problema)
+
+O projeto do segundo semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos da empresa foram passados pelo professor Antônio Egydio, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/VituuSaborito/Lotus" target="_blank">aqui!</a>
+
+<img src="media/Lotus.png"/>
+
+
+### ⚒️ Tecnologias Utilizadas
+
+- Java - Linguagem de marcação para estruturar a aplicação;
+- Eclipse - Linguagem de marcação para estilizar o aplicação;
+
+<br>
+
+### 💡Contribuições Pessoais
+
+Neste projeto, atuei ativamente na implementação do framework Flask, sendo responsável pelo desenvolvimento do roteamento das páginas web, garantindo uma navegação fluida e estruturada na plataforma. Além disso, contribuí diretamente na produção e curadoria de conteúdo educacional para diversos capítulos, incluindo a elaboração de textos explicativos, inserção de vídeos e disponibilização de materiais complementares para download, como modelos de burndown chart e backlog. Essas ações tiveram como objetivo enriquecer a experiência do usuário e oferecer recursos práticos para aplicação dos conceitos abordados.
+
+
+<br>
+
+<b>Hard Skills</b>
+
+- Java - Uso com auxílio;
+- Eclipse - Uso com auxílio;
+- 
+<br>
+
+<b>Soft Skills</b>
+
+Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
+
+<br/>
+
+WORK IN PROGRESS
+
 
 </div>
 
