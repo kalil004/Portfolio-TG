@@ -120,7 +120,7 @@ Durante o projeto, desenvolvi habilidades como orientação a resultados e resil
 
 ### 📋 Desafio (Problema)
 
-O projeto do segundo semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos da empresa foram passados pelo professor Antônio Egydio, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+O projeto do primeiro semestre teve como empresa parceira a FATEC de São José dos Campos. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti, que atuou como cliente final. O problema apresentado foi a dificuldade dos usuários na análise de documentos longos ou técnicos, especialmente na extração de informações relevantes, o que impactava diretamente a produtividade em estudos, pesquisas e processos de tomada de decisão. Como solução, foi desenvolvido um sistema baseado em inteligência artificial capaz de interpretar automaticamente documentos e gerar perguntas e respostas contextualizadas, mantendo a coerência com o conteúdo e proporcionando uma análise mais rápida, dinâmica e eficiente.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/VituuSaborito/Lotus" target="_blank">aqui!</a>
 
@@ -129,15 +129,15 @@ O projeto do segundo semestre teve como empresa parceira, a FATEC de São José 
 
 ### ⚒️ Tecnologias Utilizadas
 
-- Java - Linguagem de marcação para estruturar a aplicação;
-- Eclipse - Linguagem de marcação para estilizar o aplicação;
+- Java - Linguagem de programação utilizada para implementação da lógica e criação da interface gráfica;
+- Eclipse - IDE utilizada para desenvolvimento e compilação de código;
+- MySQL - Sistema de gerenciamento de banco de dados utilizado para autenticação e gerenciamento de informações do usuário;
 
 <br>
 
 ### 💡Contribuições Pessoais
 
-Neste projeto, atuei ativamente na implementação do framework Flask, sendo responsável pelo desenvolvimento do roteamento das páginas web, garantindo uma navegação fluida e estruturada na plataforma. Além disso, contribuí diretamente na produção e curadoria de conteúdo educacional para diversos capítulos, incluindo a elaboração de textos explicativos, inserção de vídeos e disponibilização de materiais complementares para download, como modelos de burndown chart e backlog. Essas ações tiveram como objetivo enriquecer a experiência do usuário e oferecer recursos práticos para aplicação dos conceitos abordados.
-
+Neste projeto, atuei ativamente no desenvolvimento do sistema de login e cadastro, utilizando Java e MySQL, sendo responsável pela implementação da autenticação dos usuários, validação de dados e integração com o banco de dados, garantindo segurança e confiabilidade no acesso à plataforma. Além disso, contribuí diretamente na manutenção da documentação do projeto no GitHub, realizando atualizações constantes, organização dos registros de desenvolvimento e descrição das funcionalidades, com o objetivo de manter o repositório claro, acessível e alinhado às práticas de desenvolvimento colaborativo.
 
 <br>
 
@@ -150,14 +150,58 @@ Neste projeto, atuei ativamente na implementação do framework Flask, sendo res
 
 <b>Soft Skills</b>
 
+Durante o projeto, desenvolvi habilidades como comunicação e proatividade. A necessidade de implementar o sistema de login e cadastro em Java, além de manter a documentação sempre atualizada no GitHub, exigiu constante troca de informações com a equipe para alinhamento das tarefas e solução de problemas. Além disso, em diversos momentos, me antecipei às demandas, buscando soluções, esclarecendo dúvidas e propondo melhorias tanto no código quanto na organização dos materiais, o que contribuiu significativamente para o bom andamento do projeto e para que as entregas fossem feitas com qualidade e dentro dos prazos estabelecidos.
+
+<br/>
+
+<span id='3'>
+
+### Em 2024-1 - Lotus Dashboard - (3° Semestre)
+
+### 📋 Desafio (Problema)
+
+O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos da empresa foram passados pela empresa Pro4Tech, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/Code-Lotus/api-3" target="_blank">aqui!</a>
+
+<img src="media/Dashboard.png"/>
+
+
+### ⚒️ Tecnologias Utilizadas
+
+- React - Linguagem de marcação para estruturar a aplicação;
+- Typescript - Linguagem de marcação para estilizar o aplicação;
+- MySQL - Linguagem de programação utilizada no back-end;
+- Excel - Framework baseado em python para trabalhar com Python para web, utilizado para o roteamento das páginas do front-end;
+- Node.js - Linguagem de programação utilizada no front-end.
+
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Neste projeto, atuei ativamente na implementação do framework Flask, sendo responsável pelo desenvolvimento do roteamento das páginas web, garantindo uma navegação fluida e estruturada na plataforma. Além disso, contribuí diretamente na produção e curadoria de conteúdo educacional para diversos capítulos, incluindo a elaboração de textos explicativos, inserção de vídeos e disponibilização de materiais complementares para download, como modelos de burndown chart e backlog. Essas ações tiveram como objetivo enriquecer a experiência do usuário e oferecer recursos práticos para aplicação dos conceitos abordados.
+
+
+<br>
+
+<b>Hard Skills</b>
+
+- HTML - Uso com autonomia;
+- CSS - Uso com autonomia;
+- Python - Uso com autonomia;
+- Javascript - Uso com auxílio.
+
+<br>
+
+<b>Soft Skills</b>
+
 Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
 
 <br/>
 
-WORK IN PROGRESS
-
 
 </div>
-
 
 → [Voltar ao topo](#topo)
