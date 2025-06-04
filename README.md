@@ -69,11 +69,11 @@ Atualmente, estou buscando minha primeira experiência formal no mercado de tecn
 
 <span id='1'>
 
-### Em 2023-1 - AReS - (1° Semestre)
+### Em 2023-1 - Scrum Academy - (1° Semestre)
 
 ### 📋 Desafio (Problema)
 
-O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos da empresa foram passados pelo professor Antônio Egydio, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Antônio Egydio, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/Sandro-Pimentel/AReS" target="_blank">aqui!</a>
 
@@ -112,7 +112,7 @@ Neste projeto, atuei ativamente na implementação do framework Flask, sendo res
 
 Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
 
-<br/>
+<br>
 
 <span id='2'>
 
@@ -120,7 +120,7 @@ Durante o projeto, desenvolvi habilidades como orientação a resultados e resil
 
 ### 📋 Desafio (Problema)
 
-O projeto do primeiro semestre teve como empresa parceira a FATEC de São José dos Campos. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti, que atuou como cliente final. O problema apresentado foi a dificuldade dos usuários na análise de documentos longos ou técnicos, especialmente na extração de informações relevantes, o que impactava diretamente a produtividade em estudos, pesquisas e processos de tomada de decisão. Como solução, foi desenvolvido um sistema baseado em inteligência artificial capaz de interpretar automaticamente documentos e gerar perguntas e respostas contextualizadas, mantendo a coerência com o conteúdo e proporcionando uma análise mais rápida, dinâmica e eficiente.
+O projeto do segundo semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Giuliano Bertoti, que atuou como cliente final. O problema apresentado foi a dificuldade dos usuários na análise de documentos longos ou técnicos, especialmente na extração de informações relevantes, o que impactava diretamente a produtividade em estudos, pesquisas e processos de tomada de decisão. Como solução, foi desenvolvido um sistema baseado em inteligência artificial capaz de interpretar automaticamente documentos e gerar perguntas e respostas contextualizadas, mantendo a coerência com o conteúdo e proporcionando uma análise mais rápida, dinâmica e eficiente.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/VituuSaborito/Lotus" target="_blank">aqui!</a>
 
@@ -145,14 +145,15 @@ Neste projeto, atuei ativamente no desenvolvimento do sistema de login e cadastr
 
 - Java - Uso com auxílio;
 - Eclipse - Uso com auxílio;
-- 
+- MySQL - Uso com autonomia;
+
 <br>
 
 <b>Soft Skills</b>
 
 Durante o projeto, desenvolvi habilidades como comunicação e proatividade. A necessidade de implementar o sistema de login e cadastro em Java, além de manter a documentação sempre atualizada no GitHub, exigiu constante troca de informações com a equipe para alinhamento das tarefas e solução de problemas. Além disso, em diversos momentos, me antecipei às demandas, buscando soluções, esclarecendo dúvidas e propondo melhorias tanto no código quanto na organização dos materiais, o que contribuiu significativamente para o bom andamento do projeto e para que as entregas fossem feitas com qualidade e dentro dos prazos estabelecidos.
 
-<br/>
+<br>
 
 <span id='3'>
 
@@ -160,7 +161,7 @@ Durante o projeto, desenvolvi habilidades como comunicação e proatividade. A n
 
 ### 📋 Desafio (Problema)
 
-O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos da empresa foram passados pela empresa Pro4Tech, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+O projeto do terceiro semestre teve como empresa parceira a Pro4Tech, empresa que oferece serviços de transformação digital e IA. O problema apresentado foi a dificuldade em analisar e armazenar informações provenientes de planilhas Excel quando o volume de dados era muito alto, o que tornava o processo manual demorado e suscetível a erros. Como solução, foi desenvolvido um dashboard com uma interface intuitiva que permite o envio das planilhas e a visualização dos dados em gráficos, facilitando a análise e o acompanhamento das informações de forma clara e eficiente.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/Code-Lotus/api-3" target="_blank">aqui!</a>
 
@@ -169,11 +170,10 @@ O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José
 
 ### ⚒️ Tecnologias Utilizadas
 
-- React - Linguagem de marcação para estruturar a aplicação;
-- Typescript - Linguagem de marcação para estilizar o aplicação;
-- MySQL - Linguagem de programação utilizada no back-end;
-- Excel - Framework baseado em python para trabalhar com Python para web, utilizado para o roteamento das páginas do front-end;
-- Node.js - Linguagem de programação utilizada no front-end.
+- React - Biblioteca utilizada para o desenvolvimento de interfaces web, integrada ao Typescript;
+- Typescript - Linguagem de programação utilizada tanto no front-end quanto back-end;
+- MySQL - SGBD utilizado para desenvolvimento e gerenciamento do banco de dados da aplicação;
+- SCSS - Pré-processador CSS que facilita a organização e reutilização de estilos;
 
 <br>
 
@@ -181,26 +181,67 @@ O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José
 
 ### 💡Contribuições Pessoais
 
-Neste projeto, atuei ativamente na implementação do framework Flask, sendo responsável pelo desenvolvimento do roteamento das páginas web, garantindo uma navegação fluida e estruturada na plataforma. Além disso, contribuí diretamente na produção e curadoria de conteúdo educacional para diversos capítulos, incluindo a elaboração de textos explicativos, inserção de vídeos e disponibilização de materiais complementares para download, como modelos de burndown chart e backlog. Essas ações tiveram como objetivo enriquecer a experiência do usuário e oferecer recursos práticos para aplicação dos conceitos abordados.
-
+Neste projeto, atuei ativamente como Scrum Master, sendo responsável por coordenar o progresso das tarefas da equipe, conduzindo as cerimônias ágeis e assegurando a aplicação dos princípios do Scrum durante todo o desenvolvimento. Além da gestão, também contribui diretamente na construção do front-end, desenvolvendo as telas de login, cadastro e página principal, utilizando React e TypeScript, garantindo uma interface intuitiva e funcional. No back-end, atuei na implementação da tipagem das vendas e na funcionalidade de leitura de planilhas Excel, o que me proporcionou um aprofundamento técnico significativo e contribuiu diretamente para o funcionamento eficiente do dashboard.
 
 <br>
 
 <b>Hard Skills</b>
 
-- HTML - Uso com autonomia;
-- CSS - Uso com autonomia;
-- Python - Uso com autonomia;
-- Javascript - Uso com auxílio.
+- Typescript - Uso com auxílio.
+- React - Uso com auxílio.
+- MySQL - Uso com autonomia;
 
 <br>
 
 <b>Soft Skills</b>
 
-Durante o projeto, desenvolvi habilidades como orientação a resultados e resiliência. Como a programação na prática ainda era algo novo para mim, e um dos membros da equipe havia desistido do curso no meio do semestre, precisei dedicar muito tempo às tarefas — algo que também aconteceu com os demais integrantes. No entanto, com um bom nível de persistência, minha equipe e eu conseguimos entregar tudo dentro dos prazos.
+Durante o projeto, desenvolvi habilidades como liderança, comunicação e resiliência. Atuar como Scrum Master me desafiou a liderar a equipe, organizar as demandas e manter todos alinhados, mesmo diante de imprevistos e prazos apertados. A constante necessidade de comunicação foi essencial para garantir que todos estivessem cientes das responsabilidades e do andamento do projeto. Além disso, enfrentei desafios técnicos, como a integração da leitura de planilhas Excel e o desenvolvimento do front-end, que exigiram resiliência para superar dificuldades, aprender rapidamente e garantir que as entregas fossem realizadas com qualidade e dentro dos prazos estabelecidos.
 
-<br/>
+<br>
 
+<span id='3'>
+
+### Em 2024-2 - LogiTrack - (4° Semestre)
+
+### 📋 Desafio (Problema)
+
+O projeto do quarto semestre teve como parceira a JJM Log, uma empresa especializada em transporte e logística. O problema apresentado foi a dificuldade no gerenciamento logístico da empresa, causada pela falta de integração entre os setores e por falhas na comunicação interna, o que comprometia a eficiência dos processos. Como solução, foi desenvolvida uma plataforma integrada que centraliza as funções essenciais da rotina empresarial, facilitando a organização das atividades e melhorando significativamente a comunicação entre os setores.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-IV" target="_blank">aqui!</a>
+
+<img src="media/TMS.png"/>
+
+
+### ⚒️ Tecnologias Utilizadas
+
+- React - Biblioteca utilizada para o desenvolvimento de interfaces web, integrada ao Typescript;
+- Typescript - Linguagem de programação utilizada tanto no front-end quanto back-end;
+- MySQL - SGBD utilizado para desenvolvimento e gerenciamento do banco de dados da aplicação;
+- CSS - Linguagem de marcação utilizada para estilização da aplicação;
+
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Neste projeto, atuei ativamente no desenvolvimento de uma solução web voltada para otimizar os processos internos da empresa JJM Log, focando na integração dos setores e na centralização das atividades. Fui responsável pela construção tanto do front-end quanto do back-end da aplicação, utilizando React e TypeScript. No front-end, desenvolvi e implementei funcionalidades como a navegação por meio de navbar e sidebar, além de aprimoramentos visuais que garantiram uma interface intuitiva e agradável. No back-end, atuei na criação das operações CRUD, definição da arquitetura do banco de dados e desenvolvimento de funcionalidades essenciais para o funcionamento do sistema. Essas contribuições foram fundamentais para entregar uma plataforma funcional, com foco em usabilidade, desempenho e alinhada às necessidades do cliente.
+
+<br>
+
+<b>Hard Skills</b>
+
+- Typescript - Uso com auxílio.
+- React - Uso com auxílio.
+- MySQL - Uso com autonomia;
+
+<br>
+
+<b>Soft Skills</b>
+
+Durante o projeto, desenvolvi habilidades como orientação a resultados, autonomia e adaptabilidade. A necessidade de atuar em diferentes frentes do desenvolvimento — tanto no front-end quanto no back-end — me desafiou a buscar soluções de forma independente, aprimorando minha capacidade de tomar decisões e resolver problemas técnicos de maneira ágil. Além disso, trabalhar em um projeto que exigia a integração de setores e o desenvolvimento de uma plataforma robusta me permitiu exercitar a adaptabilidade, ajustando rapidamente minhas abordagens sempre que surgiam mudanças nos requisitos ou nos desafios técnicos, sem perder o foco na entrega de uma solução funcional, eficiente e alinhada às necessidades do cliente.
+
+<br>
 
 </div>
 
