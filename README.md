@@ -71,9 +71,11 @@ Atualmente, estou buscando minha primeira experiência formal no mercado de tecn
 
 ### Em 2023-1 - Scrum Academy - (1° Semestre)
 
-### 📋 Desafio (Problema)
+O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Antônio Egydio, que assumiu o papel de cliente final.
 
-O projeto do primeiro semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Antônio Egydio, que atuou como cliente final. O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+O problema apresentado foi dificuldade de entendimento dos alunos da FATEC, no que se diz respeito à metodologia Scrum, principalmente pela falta de exemplos práticos. 
+
+Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/Sandro-Pimentel/AReS" target="_blank">aqui!</a>
 
@@ -118,9 +120,11 @@ Durante o projeto, desenvolvi habilidades como orientação a resultados e resil
 
 ### Em 2023-2 - Lotus Chatbot - (2° Semestre)
 
-### 📋 Desafio (Problema)
+O projeto do segundo semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Giuliano Bertoti, que atuou como cliente final. 
 
-O projeto do segundo semestre teve como empresa parceira, a FATEC de São José dos Campos. Os requisitos foram passados pelo professor Giuliano Bertoti, que atuou como cliente final. O problema apresentado foi a dificuldade dos usuários na análise de documentos longos ou técnicos, especialmente na extração de informações relevantes, o que impactava diretamente a produtividade em estudos, pesquisas e processos de tomada de decisão. Como solução, foi desenvolvido um sistema baseado em inteligência artificial capaz de interpretar automaticamente documentos e gerar perguntas e respostas contextualizadas, mantendo a coerência com o conteúdo e proporcionando uma análise mais rápida, dinâmica e eficiente.
+O problema apresentado foi a dificuldade dos usuários na análise de documentos longos ou técnicos, especialmente na extração de informações relevantes, o que impactava diretamente a produtividade em estudos, pesquisas e processos de tomada de decisão. 
+
+Como solução, foi desenvolvido um sistema baseado em inteligência artificial capaz de interpretar automaticamente documentos e gerar perguntas e respostas contextualizadas, mantendo a coerência com o conteúdo e proporcionando uma análise mais rápida, dinâmica e eficiente.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/VituuSaborito/Lotus" target="_blank">aqui!</a>
 
@@ -159,9 +163,11 @@ Durante o projeto, desenvolvi habilidades como comunicação e proatividade. A n
 
 ### Em 2024-1 - Lotus Dashboard - (3° Semestre)
 
-### 📋 Desafio (Problema)
+O projeto do terceiro semestre teve como empresa parceira a Pro4Tech, empresa que oferece serviços de transformação digital e IA. Os requisitos foram apresentados no kick-off, por uma pessoa da Pro4Tech, que assumiu o papel de cliente final.
 
-O projeto do terceiro semestre teve como empresa parceira a Pro4Tech, empresa que oferece serviços de transformação digital e IA. O problema apresentado foi a dificuldade em analisar e armazenar informações provenientes de planilhas Excel quando o volume de dados era muito alto, o que tornava o processo manual demorado e suscetível a erros. Como solução, foi desenvolvido um dashboard com uma interface intuitiva que permite o envio das planilhas e a visualização dos dados em gráficos, facilitando a análise e o acompanhamento das informações de forma clara e eficiente.
+O problema apresentado consistia na dificuldade em analisar e armazenar informações provenientes de planilhas Excel quando o volume de dados era muito alto, o que tornava o processo manual demorado e suscetível a erros. 
+
+Como solução, foi desenvolvido um dashboard com uma interface intuitiva que permite o envio das planilhas e a visualização dos dados em gráficos, facilitando a análise e o acompanhamento das informações de forma clara e eficiente.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/Code-Lotus/api-3" target="_blank">aqui!</a>
 
@@ -203,9 +209,11 @@ Durante o projeto, desenvolvi habilidades como liderança, comunicação e resil
 
 ### Em 2024-2 - LogiTrack - (4° Semestre)
 
-### 📋 Desafio (Problema)
+O projeto do quarto semestre teve como parceira a JJM Log, uma empresa especializada em transporte e logística. Os requisitos foram apresentados no kick-off por uma pessoa da JJM Log, que atuou como cliente final.
 
-O projeto do quarto semestre teve como parceira a JJM Log, uma empresa especializada em transporte e logística. O problema apresentado foi a dificuldade no gerenciamento logístico da empresa, causada pela falta de integração entre os setores e por falhas na comunicação interna, o que comprometia a eficiência dos processos. Como solução, foi desenvolvida uma plataforma integrada que centraliza as funções essenciais da rotina empresarial, facilitando a organização das atividades e melhorando significativamente a comunicação entre os setores.
+O problema apresentado consistia na dificuldade no gerenciamento logístico da empresa, causada pela falta de integração entre os setores e por falhas na comunicação interna, o que comprometia a eficiência dos processos. 
+
+Como solução, foi desenvolvida uma plataforma integrada que centraliza as funções essenciais da rotina empresarial, facilitando a organização das atividades e melhorando significativamente a comunicação entre os setores.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-IV" target="_blank">aqui!</a>
 
@@ -247,9 +255,11 @@ Durante o projeto, desenvolvi habilidades como orientação a resultados, autono
 
 ### Em 2025-1 - FastRefund - (5° Semestre)
 
-### 📋 Desafio (Problema)
+O projeto do quinto semestre teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no kick-off por um representante da própria GSW, que atuou como cliente final. 
 
-O projeto do quinto semestre teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no kick-off por um representante da própria GSW, que atuou como cliente final. O problema apresentado foi a gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre os sistemas. Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática e automatizada, facilitando o processo de solicitação e controle de reembolsos pela empresa.
+O problema apresentado consistia na gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre os sistemas. 
+
+Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática e automatizada, facilitando o processo de solicitação e controle de reembolsos pela empresa.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-V" target="_blank">aqui!</a>
 
