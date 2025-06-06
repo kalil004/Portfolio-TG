@@ -249,7 +249,7 @@ Durante o projeto, desenvolvi habilidades como orientação a resultados, autono
 
 ### 📋 Desafio (Problema)
 
-O projeto do quinto semestre teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por um representante da própria GSW, que atuou como cliente final. O problema apresentado foi a gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre os sistemas. Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática e automatizada, facilitando o processo de solicitação e controle de reembolsos pela empresa.
+O projeto do quinto semestre teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no kick-off por um representante da própria GSW, que atuou como cliente final. O problema apresentado foi a gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre os sistemas. Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática e automatizada, facilitando o processo de solicitação e controle de reembolsos pela empresa.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-V" target="_blank">aqui!</a>
 
