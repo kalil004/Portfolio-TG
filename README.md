@@ -361,7 +361,7 @@ Como resposta ao desafio, foi criada uma plataforma web integrada a um agente de
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-VI" target="_blank">aqui!</a>
 
-<img src="media/NutriX.jpeg"/>
+<img src="media/NutriX.png"/>
 
 ### ⚒️ Tecnologias Utilizadas
 
