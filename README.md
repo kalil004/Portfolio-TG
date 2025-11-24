@@ -9,7 +9,7 @@
 
   Bem-vindo! Me chamo Kalil, e tenho 20 anos.
 
-Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Desde criança sempre tive interesse por tecnologia e uma grande curiosidade por todo o funcionamento por trás da mesma.
+Atualmente, sou estudante do 6º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Desde criança sempre tive interesse por tecnologia e uma grande curiosidade por todo o funcionamento por trás da mesma.
 
 Desde muito jovem, sempre tive uma forte inclinação por áreas relacionadas a software e tecnologia. Meu primeiro contato real com programação aconteceu durante o período da pandemia, momento em que tive a oportunidade de explorar esse universo com mais profundidade. A convivência com pessoas já inseridas no mercado de tecnologia foi fundamental para despertar ainda mais meu interesse, oferecendo orientações valiosas e ampliando minha visão sobre a área. Naturalmente, decidi seguir esse caminho profissional e, como parte desse processo, prestei vestibular para o curso de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos — onde iniciei minha formação acadêmica e mergulhei de vez no mundo da programação e do desenvolvimento de software.
 
