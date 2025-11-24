@@ -353,7 +353,7 @@ Durante o projeto, desenvolvi habilidades como liderança, resiliência, resolu�
 
 <span id='6'>
 
-### Em 2025-1 – NutriX – (6° Semestre)
+### Em 2025-2 – NutriX – (6° Semestre)
 
 A empresa Xertica buscava uma solução inovadora para tornar planos de nutrição personalizados acessíveis aos seus colaboradores. O desafio era desenvolver uma ferramenta capaz de oferecer personalização em escala, superando limitações comuns de planos genéricos e garantindo recomendações nutricionais realmente alinhadas às necessidades individuais de cada usuário.
 
@@ -361,7 +361,7 @@ Como resposta ao desafio, foi criada uma plataforma web integrada a um agente de
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-VI" target="_blank">aqui!</a>
 
-<img src="media/NutriX.png"/>
+<img src="media/NutriX.jpeg"/>
 
 ### ⚒️ Tecnologias Utilizadas
 
