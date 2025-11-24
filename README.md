@@ -301,6 +301,108 @@ Durante o projeto, desenvolvi habilidades como liderança, resiliência, resolu�
 
 <br>
 
+<span id='5'>
+
+### Em 2025-1 - FastRefund - (5° Semestre)
+
+O projeto do quinto semestre teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no kick-off por um representante da própria GSW, que atuou como cliente final. 
+
+O problema apresentado consistia na gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre os sistemas. 
+
+Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática e automatizada, facilitando o processo de solicitação e controle de reembolsos pela empresa.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-V" target="_blank">aqui!</a>
+
+<img src="media/FastRefund.jpeg"/>
+
+
+### ⚒️ Tecnologias Utilizadas
+
+- React Native - Biblioteca utilizada para o desenvolvimento de interface mobile, integrada ao Typescript;
+- React - Biblioteca utilizada para o desenvolvimento de interface web, integrada ao Typescript;
+- CSS - Linguagem de marcação para estilizar o aplicação;
+- Android Studio - Ferramenta utilizada para o desenvolvimento e emulação da versão móvel da aplicação, possibilitando a criação de uma interface nativa para dispositivos Android, com foco em usabilidade e desempenho.
+- Javascript - Linguagem de programação utilizada no backend;
+- Express.js - Framework utilizado no backend para estruturação de rotas e conexão com API REST;
+- MongoDB - Banco de dados NoSQL utilizado para armazenamento de dados não flexíveis;
+
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Neste projeto, atuei ativamente no desenvolvimento da interface da aplicação móvel, sendo responsável pela implementação de telas como login, menu principal, cadastro de despesas, além da criação e listagem de projetos. Também contribui diretamente na integração do front-end com o back-end em toda a aplicação, garantindo uma comunicação eficiente entre as camadas e assegurando o bom funcionamento das funcionalidades. Além disso, participei da modelagem do banco de dados, colaborando na definição da estrutura das informações e assegurando a consistência dos dados armazenados. Essas contribuições foram fundamentais para entregar uma aplicação funcional, intuitiva e alinhada às necessidades do cliente.
+
+<br>
+
+<b>Hard Skills</b>
+
+- React Native - Uso com auxílio;
+- Typescript - Uso com auxílio;
+- Express.js - Uso com auxílio;
+- MongoDB - Uso com autonomia.
+
+<br>
+
+<b>Soft Skills</b>
+
+Durante o projeto, desenvolvi habilidades como liderança, resiliência, resolução de problemas e proatividade. Logo no início, percebi que meu grupo não havia compreendido claramente os requisitos apresentados pelo cliente durante o kick-off. Como eu havia entendido corretamente, tomei a iniciativa de esclarecer os objetivos do projeto para a equipe e alinhar as tarefas com as expectativas da empresa parceira, exercendo uma postura de liderança. Ao longo do desenvolvimento, enfrentei desafios técnicos e de comunicação, o que exigiu resiliência para manter o foco e a motivação, mesmo diante de dificuldades. Além disso, a necessidade de tomar decisões rápidas e propor soluções eficazes durante o processo reforçou minha capacidade de resolver problemas com agilidade e agir com proatividade para garantir o progresso e a qualidade da aplicação entregue.
+
+<br>
+
+<span id='6'>
+
+### Em 2025-1 – NutriX – (6° Semestre)
+
+A empresa Xertica buscava uma solução inovadora para tornar planos de nutrição personalizados acessíveis aos seus colaboradores. O desafio era desenvolver uma ferramenta capaz de oferecer personalização em escala, superando limitações comuns de planos genéricos e garantindo recomendações nutricionais realmente alinhadas às necessidades individuais de cada usuário.
+
+Como resposta ao desafio, foi criada uma plataforma web integrada a um agente de IA Generativa. Por meio de uma interface intuitiva, o colaborador pode conversar com o agente, enviar imagens de refeições, registrar hábitos alimentares e receber recomendações personalizadas. A solução permite um acompanhamento contínuo, simples e inteligente, reforçando a proposta de bem-estar oferecida pela empresa.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-VI" target="_blank">aqui!</a>
+
+<img src="media/NutriX.png"/>
+
+### ⚒️ Tecnologias Utilizadas
+
+* **Vue + TypeScript** – Desenvolvimento da plataforma web, garantindo fluidez, responsividade e experiência amigável;
+* **Java + Spring Boot + JPA** – Estruturação do backend, criação de APIs robustas e comunicação segura com o banco de dados;
+* **Python + IA Generativa (Gemini 2.5 Flash)** – Implementação do agente conversacional, aplicação de RAG, fine-tuning e inteligência para análise nutricional;
+* **PostgreSQL** – Banco relacional para armazenamento organizado das informações e históricos nutricionais;
+* **Figma** – Criação de protótipos, fluxos e padronização de UX/UI;
+* **Slack** – Comunicação entre os membros do time;
+* **Trello** – Gestão de tarefas, organização das entregas e acompanhamento do progresso.
+
+<br>
+
+<h1></h1>
+
+### 💡 Contribuições Pessoais
+
+Atuei como **Product Owner** do projeto, sendo responsável pelo contato direto com o cliente, alinhamento das expectativas e priorização das demandas. Conduzi a visão do produto desde a concepção até sua entrega, garantindo que todas as funcionalidades estivessem alinhadas ao propósito inicial.
+
+Desenvolvi o **agente de IA**, responsável pela personalização nutricional baseada em conversas e imagens, além da lógica de registro automático de refeições. Também implementei funcionalidades essenciais, como a **visualização de metas de peso**, sistema de dietas personalizadas e o **balanceamento calórico** para cada colaborador.
+
+Acompanhei de perto o desenvolvimento da equipe, removi impedimentos e garanti que todos estivessem sincronizados, resultando em uma plataforma funcional, inteligente e preparada para uso real no contexto corporativo.
+
+<br>
+
+<b>Hard Skills</b>
+
+* Vue – Uso com autonomia;
+* Spring Boot – Uso com auxílio;
+* PostgreSQL – Uso com autonomia;
+* Python – Uso com auxílio;
+* GitHub – Uso com autonomia.
+
+<br>
+
+<b>Soft Skills</b>
+
+Durante o desenvolvimento, pratiquei intensamente habilidades de **liderança**, sendo o ponto central de comunicação com o cliente e garantindo clareza na execução das tarefas. Idealizei o produto final e distribuí as atividades de forma estratégica, conforme o nível de conhecimento de cada membro. Minha **organização** foi fundamental para manter o time na mesma direção, com documentação atualizada e processos bem definidos. Diante dos inúmeros bugs e desafios técnicos, apliquei **resolução de problemas**, auxiliando a equipe e solucionando impasses rapidamente. A alta carga de trabalho exigiu forte **resiliência**. Mesmo com apenas cinco integrantes, mantive ritmo, qualidade e prazos, contribuindo para uma entrega completa e bem estruturada.
+
+<br>
+
 </div>
 
 → [Voltar ao topo](#topo)
