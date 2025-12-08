@@ -332,11 +332,11 @@ Como solução, foi desenvolvido um agente conversacional inteligente que ofere�
 
 ### 💡 Contribuições Pessoais
 
-Atuei como **Product Owner** do projeto, sendo responsável pelo contato direto com o cliente, alinhamento das expectativas e priorização das demandas. Conduzi a visão do produto desde a concepção até sua entrega, garantindo que todas as funcionalidades estivessem alinhadas ao propósito inicial.
+Atuei como Product Owner do projeto, sendo responsável pelo contato direto com o cliente, alinhamento das expectativas e priorização das demandas. Conduzi a visão do produto desde a concepção até sua entrega, garantindo que todas as funcionalidades estivessem alinhadas ao propósito inicial.
 
-Desenvolvi o **agente de IA**, responsável pela personalização nutricional baseada em conversas e imagens, além da lógica de registro automático de refeições. Também implementei funcionalidades essenciais, como a **visualização de metas de peso**, sistema de dietas personalizadas e o **balanceamento calórico** para cada colaborador.
+Desenvolvi o agente de IA, responsável pela personalização nutricional baseada em conversas e imagens, além da lógica de registro automático de refeições. Também implementei funcionalidades essenciais, como a visualização de metas de peso, sistema de dietas personalizadas e o balanceamento calórico para cada usuário 
 
-Acompanhei de perto o desenvolvimento da equipe, removi impedimentos e garanti que todos estivessem sincronizados, resultando em uma plataforma funcional, inteligente e preparada para uso real no contexto corporativo.
+Acompanhei de perto o desenvolvimento da equipe, removi impedimentos e garanti que todos estivessem sincronizados, resultando em uma plataforma funcional, inteligente e preparada para uso real.
 
 <br>
 
@@ -352,7 +352,7 @@ Acompanhei de perto o desenvolvimento da equipe, removi impedimentos e garanti q
 
 <b>Soft Skills</b>
 
-Durante o desenvolvimento, pratiquei intensamente habilidades de **liderança**, sendo o ponto central de comunicação com o cliente e garantindo clareza na execução das tarefas. Idealizei o produto final e distribuí as atividades de forma estratégica, conforme o nível de conhecimento de cada membro. Minha **organização** foi fundamental para manter o time na mesma direção, com documentação atualizada e processos bem definidos. Diante dos inúmeros bugs e desafios técnicos, apliquei **resolução de problemas**, auxiliando a equipe e solucionando impasses rapidamente. A alta carga de trabalho exigiu forte **resiliência**. Mesmo com apenas cinco integrantes, mantive ritmo, qualidade e prazos, contribuindo para uma entrega completa e bem estruturada.
+Durante o desenvolvimento, pratiquei intensamente habilidades de liderança, sendo o ponto central de comunicação com o cliente e garantindo clareza na execução das tarefas. Idealizei o produto final e distribuí as atividades de forma estratégica, conforme o nível de conhecimento de cada membro. Minha organização foi fundamental para manter o time na mesma direção, com documentação atualizada e processos bem definidos. Diante dos inúmeros bugs e desafios técnicos, apliquei resolução de problemas, auxiliando a equipe e solucionando impasses rapidamente. A alta carga de trabalho exigiu forte resiliência. Mesmo com apenas cinco integrantes, mantive ritmo, qualidade e prazos, contribuindo para uma entrega completa e bem estruturada.
 
 <br>
 
