@@ -308,9 +308,9 @@ Durante o projeto, desenvolvi habilidades como liderança, resiliência, resolu�
 
 ### Em 2025-2 – NutriX – (6° Semestre)
 
-A empresa Xertica buscava uma solução inovadora para tornar planos de nutrição personalizados acessíveis aos seus colaboradores. O desafio era desenvolver uma ferramenta capaz de oferecer personalização em escala, superando limitações comuns de planos genéricos e garantindo recomendações nutricionais realmente alinhadas às necessidades individuais de cada usuário.
+O problema apresentado consistia no fato de muitas pessoas enfrentarem dificuldades para acessar orientações nutricionais confiáveis e personalizadas no dia a dia, principalmente ao que diz respeito sobre pessoas com restrições alimentares e objetivos específicos.
 
-Como resposta ao desafio, foi criada uma plataforma web integrada a um agente de IA Generativa. Por meio de uma interface intuitiva, o colaborador pode conversar com o agente, enviar imagens de refeições, registrar hábitos alimentares e receber recomendações personalizadas. A solução permite um acompanhamento contínuo, simples e inteligente, reforçando a proposta de bem-estar oferecida pela empresa.
+Como solução, foi desenvolvido um agente conversacional inteligente que ofereça suporte nutricional de forma rápida, clara e personalizada, que também compreende as necessidades individuais dos usuários, interage de maneira natural, fornece recomendações seguras, e acompanha o usuário nos seus objetivos e alimentação.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/DriftOps/API-VI" target="_blank">aqui!</a>
 
