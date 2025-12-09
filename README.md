@@ -345,7 +345,7 @@ Atuei como Product Owner do projeto, sendo responsável pelo contato direto com 
 
 <b>Soft Skills</b>
 
-Durante o desenvolvimento, pratiquei intensamente habilidades de liderança, sendo o ponto central de comunicação com o cliente e garantindo clareza na execução das tarefas. Idealizei o produto final e distribuí as atividades de forma estratégica junto com o Scrum Master, conforme o nível de conhecimento de cada membro. Minha organização foi fundamental para manter o time na mesma direção, com documentação atualizada e processos bem definidos. Diante dos inúmeros bugs e desafios técnicos, apliquei resolução de problemas, auxiliando a equipe e solucionando impasses rapidamente. A alta carga de trabalho exigiu forte resiliência. Mesmo com apenas cinco integrantes (posteriormente quatro, pois um dos membros desistiu do curso), mantive ritmo, qualidade e prazos, contribuindo para uma entrega completa e bem estruturada.
+Durante o desenvolvimento, pratiquei intensamente habilidades de **liderança**, idealizando o produto final e delegando tarefas de acordo com a disponibilidade de cada membro da equipe. Também exerci um papel central de **comunicação** com o cliente e garantindo clareza nas implementações. Minha organização foi fundamental para manter o time na mesma direção, montando um backlog coerente que priorizava o que o cliente esperava, e também distribuindo as tarefas de forma estratégica junto com o Scrum Master, conforme o nível de conhecimento de cada membro. A alta carga de trabalho exigiu forte resiliência. Mesmo com apenas cinco integrantes (posteriormente quatro, pois um dos membros desistiu do curso), mantive ritmo, qualidade e prazos, contribuindo para uma entrega completa e bem estruturada.
 
 <br>
 
